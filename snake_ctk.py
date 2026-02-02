@@ -4,7 +4,7 @@ import random
 # ---------------------------
 # POSTAVKE IGRE
 # ---------------------------
-GRID = 20          # 20x20 polja
+GRID = 40          # 40x40 polja
 CELL = 20          # veličina polja u pikselima
 W = 2 * GRID * CELL
 H = 2 * GRID * CELL

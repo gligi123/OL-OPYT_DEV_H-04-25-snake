@@ -6,8 +6,8 @@ import random
 # ---------------------------
 GRID = 40          # 40x40 polja
 CELL = 20          # veličina polja u pikselima
-W = 2 * GRID * CELL
-H = 2 * GRID * CELL
+W = GRID * CELL
+H = GRID * CELL
 
 START_DELAY = 200  # ms
 SPEED_EVERY = 3    # ubrzaj svakih N bodova
